@@ -1,0 +1,1 @@
+git@github.com:dandawong/Macau618COVID19.git
